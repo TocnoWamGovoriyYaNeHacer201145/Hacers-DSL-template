@@ -1,2 +1,2 @@
-# Hacers-DSL-template
-Hacer's template for programming language
+# What is it, and why should I use it instead of my if/elif? 
+This architecture uses a vocabulary similar to the one in lua, but in a slightly different way. This architecture simply replaces the function name with another one, for example: "fn": "def", which means that when preparing for exec() it will simply be replaced with def again, so you can add a line of code, or a few lines (if you add f before '). You can also use Python using the same exec(). You ask me, "Why do I need this, it can break variables with the same names?" and I'll tell you, "Why did you start writing DSLs in Py in the first place, not even in C?"...
