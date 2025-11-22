@@ -3,7 +3,7 @@ import sys
 # Command dictionary
 command_dict = {
   # your command here
-  # "hello_world": "print("Hello, world!")
+  # "hello_world": "print('Hello, world!')"
 }
 
 def command_parser(line):
